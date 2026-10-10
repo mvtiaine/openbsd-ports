@@ -1,6 +1,6 @@
 COMMENT=	UADE plugin for Audacious and DeaDBeeF
 
-VERSION=	0.14.2
+VERSION=	0.14.3
 DISTNAME=	audacious-uade-${VERSION}
 
 CATEGORIES=	audio
